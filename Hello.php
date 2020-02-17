@@ -4,6 +4,6 @@
 
   
   function getInfo(){
-  
+    echo "Welcome to UPS";
   }
 ?>
